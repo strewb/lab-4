@@ -69,8 +69,8 @@ Librarian (administrator)
   * Use case diagram?
   The document doesnt have a use case diagram, i draw one.
 
-http://users.metropolia.fi/~lilyg/UseCaseDiagram1.jpg
-http://users.metropolia.fi/~lilyg/UseCase%20Diagram1.jpg
+
+![GitHub Logo](http://users.metropolia.fi/~lilyg/UseCase Diagram1.jpg)
 
   * Actors?
   
